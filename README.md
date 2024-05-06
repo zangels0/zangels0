@@ -8,10 +8,6 @@ I'm all about creating cool stuff for Discord! From fun bots to helpful tools, y
 
 I'm just a teen who loves coding Discord bots.
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25px" height="25px"/> Contact Me on Social Media
-
-- Discord: zangels0#0000
-
 ## Github Stats
 
 [![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangels0&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/zangels)
