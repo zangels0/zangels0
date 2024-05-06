@@ -1,14 +1,18 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="zara" src="https://github.com/zangels0.png">
 
-I'm a Discord bot developer who enjoys creating fun and useful experiences for communities. Here, you'll find various projects I'm working on, ranging from simple bots to more complex endeavors.
+I'm all about creating cool stuff for Discord! From fun bots to helpful tools, you'll find my projects here.
 
 ## About Me
 
-I'm a software developer focusing on Discord bot development. My experience includes:
+I'm just a teen who loves coding Discord bots. Here's what I'm into:
 
-- Using main programming languages like JavaScript (Node.js) and Python.
-- Mastering Discord.js and discord.py to create interactive and dynamic bots.
-- Understanding web application development concepts using technologies like HTML, CSS, and React.
+- I use languages like JavaScript (Node.js) and Python.
+- I make bots with Discord.js and discord.py that can do all sorts of cool stuff.
+- I also know a bit about web stuff like HTML, CSS, and React.
+
+## What I'm Working On
+
+Here's what's cooking in my projects:
 
 ## Github Stats
 
