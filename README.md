@@ -1,5 +1,7 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="zara" src="https://github.com/zangels0.png">
 
+# Hii, I'm Zara's <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
 I'm all about creating cool stuff for Discord! From fun bots to helpful tools, you'll find my projects here.
 
 ## About Me
