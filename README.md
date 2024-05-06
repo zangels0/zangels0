@@ -11,5 +11,5 @@ I'm just a teen who loves coding Discord bots.
 ## Github Stats
 
 [![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangels0&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/zangels)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zangels0&theme=radical&langs_count=10&hide=html,css,makefile,shell,Dockerfile&layout=compact&custom_title=Zara's%20Top%20Languages" height=190px/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zangels0&theme=radical&langs_count=10&hide=html,css,makefile,shell,Dockerfile&layout=compact&custom_title=Zara's%10Top%10Languages" height=190px/>
 <br>
