@@ -14,6 +14,24 @@ I'm just a teen who loves coding Discord bots. Here's what I'm into:
 
 Here's what's cooking in my projects:
 
+1. **ZaraBot**: A jack-of-all-trades Discord bot packed with features for any server.
+   - Language: JavaScript (Node.js)
+   - Repo Link: [ZaraBot Repo](https://github.com/zangels0/ZaraBot)
+
+2. **Discord Music Bot**: A bot just for playing tunes in voice chats.
+   - Language: Python
+   - Repo Link: [Discord Music Bot Repo](https://github.com/zangels0/discord-music-bot)
+
+## Hit Me Up!
+
+Got questions or wanna chat about coding? Drop me a message:
+
+- Email: zarangels@example.com
+- Discord: Zarangels#1234
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zarangels/)
+
+Thanks for stopping by! Let's build something awesome together. 😊
+
 ## Github Stats
 
 [![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangels0&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/zangels)
